@@ -6,10 +6,7 @@
 
 ![image](https://github.com/LudovicGouverneur/General-Strategy/blob/master/Cycle-global-tdd.png)
 
-<a href="https://github.com/LudovicGouverneur/General-Strategy/blob/master/Cycle-global-tdd.png"> hr </a>
- <form>
-  <input type="text" value="hi">
- </form>
+
 * How do I do it?
 Knowledge : 
   * 

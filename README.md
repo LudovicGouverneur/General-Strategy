@@ -8,6 +8,7 @@
 
 <a href="https://github.com/LudovicGouverneur/General-Strategy/blob/master/Cycle-global-tdd.png"> hr </a>
  
+ <input type="text" value="hi">
 * How do I do it?
 Knowledge : 
   * 

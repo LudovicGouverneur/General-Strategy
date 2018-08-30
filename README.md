@@ -4,7 +4,7 @@
 
 > I want to communicate an intention/ materialize an idea, to the world through coding.
 
-!https://upload.wikimedia.org/wikipedia/commons/0/0e/Cycle-global-tdd.png
+!("https://github.com/LudovicGouverneur/General-Strategy/blob/master/Cycle-global-tdd.png")
 
 * How do I do it?
 Knowledge : 

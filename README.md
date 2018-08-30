@@ -4,6 +4,8 @@
 
 > I want to communicate an intention/ materialize an idea, to the world through coding.
 
+!https://upload.wikimedia.org/wikipedia/commons/0/0e/Cycle-global-tdd.png
+
 * How do I do it?
 Knowledge : 
   * 

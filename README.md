@@ -6,15 +6,16 @@
 
 * How do I do it?
 
-> By respecting a conventional architecture in my program : MVC-LH
+> MVC-LH : by respecting a conventional architecture in my program : 
 
+> Reverse Engineering + Expension + TDD approach
+
+> Write the requirement/spec
+> Write test-cases
 
 * What is the final product?
 
 A final working product with : 
 
 * (programmer oath) 
-*
-*
-*
 

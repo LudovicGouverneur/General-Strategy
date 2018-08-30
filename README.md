@@ -5,9 +5,19 @@
 > I want to communicate an intention/ materialize an idea, to the world through coding.
 
 * How do I do it?
+Knowledge : 
+  * 
+  * basic javascript synthax
+  *   
+  * DOM
+  * Closure // dependancies
+  * pure function
+  * Object
+  
+Skills : 
 
-> MVC-LH : by respecting a conventional architecture in my program : 
-
+* Structure : 
+     * MVC-LH : by respecting a conventional architecture in my program.  
 > Reverse Engineering + Expension + TDD approach
 
 > Write the requirement/spec

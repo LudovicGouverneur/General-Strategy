@@ -6,6 +6,8 @@
 
 ![image](https://github.com/LudovicGouverneur/General-Strategy/blob/master/Cycle-global-tdd.png)
 
+<a href="https://github.com/LudovicGouverneur/General-Strategy/blob/master/Cycle-global-tdd.png"> hr </a>
+ 
 * How do I do it?
 Knowledge : 
   * 
